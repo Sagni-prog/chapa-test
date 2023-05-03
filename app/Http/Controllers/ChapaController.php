@@ -27,7 +27,7 @@ class ChapaController extends Controller
         $data = [
             
             'amount' => 100,
-            'email' => 'sagni69@negade.com',
+            'email' => 'sagnialemayehu69@negade.com',
             'tx_ref' => $reference,
             'currency' => "ETB",
             'callback_url' => 'https://zelogger.netlify.app/',
