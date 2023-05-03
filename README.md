@@ -1,1 +1,1 @@
-<h1>This is Chapa Payment Test</h1>
+<h1>This is Payment Integration Test With Chapa</h1>
